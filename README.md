@@ -2,11 +2,6 @@
 
 ![gatsby-blog-cosmicjs](static/thumbnail.png "The index page of the starter blog")
 
-> This repo contains an example blog website that is built with [Gatsby](https://www.gatsbyjs.org/), and [Cosmic JS](https://www.cosmicjs.com).
-
-> [See live demo hosted on Netlify](https://gatsby-blog-cosmicjs.netlify.com/)
-
-> Uses the [Cosmic JS Gatsby Source Plugin](https://www.npmjs.com/package/gatsby-source-cosmicjs)
 
 ## Prerequisites
 
